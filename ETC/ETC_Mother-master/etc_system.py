@@ -23,6 +23,11 @@ class System:
     userpath = os.path.expanduser('~')
     MODES_PATH = userpath + "/GRAPHICS_FUN/ETC_MY_VIDEO_SYNTH/ETC/patches/"
     SCENES_PATH = userpath +"/GRAPHICS_FUN/ETC_MY_VIDEO_SYNTH/ETC/ETC_Mother-master/Scenes.csv"
+
+    MODES_PATH = userpath + "/Video_Synth-ETC_Mother_and-Modes/ETC/patches/"
+    SCENES_PATH = userpath +"/Video_Synth-ETC_Mother_and-Modes/ETC/ETC_Mother-master/Scenes.csv"
+
+    
     print(MODES_PATH)
     print(SCENES_PATH)
     # this is just an alias to the screen in main loop
