@@ -21,6 +21,6 @@ def seg(screen, etc, i) :
     offx = int(etc.knob2 * 720)
     offy = int(etc.knob3 * 1280) 
     
-    pygame.draw.circle(screen,color,(y+offy, x1+offx),5, 0)
+    pygame.draw.circle(screen,color,(int(y+offy), int(x1+offx)),5, 0)
     pygame.draw.line(screen, color, [y+offy, x0+offx], [y+offy, x1+offx], 2)
 

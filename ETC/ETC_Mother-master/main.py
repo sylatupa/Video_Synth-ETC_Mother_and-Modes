@@ -205,6 +205,7 @@ while 1:
     # clear it with bg color if auto clear enabled
     etc.bg_color =  etc.color_picker_bg()
     if etc.auto_clear :
+        print(etc.bg_color)
         screen.fill(etc.bg_color) 
     
     # run setup (usually if the mode was reloaded)
