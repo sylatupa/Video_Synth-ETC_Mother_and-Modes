@@ -11,7 +11,7 @@ A Video Synth developed from the Critter and Guitari ETC Video Synth
 # Additonal Patches were created, including:
 * [S - A1_AFlower_Sauce](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes/tree/master/ETC/patches/S%20-%20A1_AFlower_Sauce)  An L-system implementation producing a Flower/Leaf. 
 * [S - A1_APopulation_Chaos](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes/tree/master/ETC/patches/S%20-%20A1_APopulation_Chaos)
-*[S - A1_Brownian_Sauce](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes/tree/master/ETC/patches/S%20-%20A1_Brownian_Sauce)
+* [S - A1_Brownian_Sauce](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes/tree/master/ETC/patches/S%20-%20A1_Brownian_Sauce)
 
 Code attributions found in each file. Also, here are those sources:
 http://www.mediafire.com/file/5rteoppprwqcb72/flowersystem.py
