@@ -26,7 +26,7 @@ https://www.pygame.org/project/1755/3062
 https://www.youtube.com/watch?v=zzlslcG2fdA&list=PLcqKf5XU9uVOfuwFNbiraGHOt9Q5JuXdf
 
 ## An Arizona State University Herberger, Institute for the Design and the Arts, Digital Culture Masters Final Project, 2019.
-[pop_chaos] ./Images/population_image3.png
-[pop_chaos2] ./Images/population_image1.png
-[lsystem] ./Images/l-system.png
+[pop_chaos]: ./Images/population_image3.png
+[pop_chaos2]: ./Images/population_image1.png
+[lsystem]: ./Images/l-system.png
 
