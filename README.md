@@ -14,9 +14,9 @@ A Video Synth developed from the Critter and Guitari ETC Video Synth
 * [S - A1_Brownian_Sauce](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes/tree/master/ETC/patches/S%20-%20A1_Brownian_Sauce)
 
 Code attributions found in each file. Also, here are those sources:
-http://www.mediafire.com/file/5rteoppprwqcb72/flowersystem.py
-https://www.pygame.org/project/1755/3062
-Chaos fractal like here:  https://www.pygame.org/project/1754
+* http://www.mediafire.com/file/5rteoppprwqcb72/flowersystem.py
+* https://www.pygame.org/project/1755/3062
+* Chaos fractal like here:  https://www.pygame.org/project/1754
 
 ![lsystem]
 
