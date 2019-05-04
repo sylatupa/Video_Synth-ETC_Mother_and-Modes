@@ -20,13 +20,15 @@ http://www.mediafire.com/file/5rteoppprwqcb72/flowersystem.py
 https://www.pygame.org/project/1755/3062
 * Chaos fractal like here:  https://www.pygame.org/project/1754
 
+![lsystem]
+
+![pop_chaos2]
 
 ## See all the videos here:
-![all_the_things]
 https://www.youtube.com/watch?v=zzlslcG2fdA&list=PLcqKf5XU9uVOfuwFNbiraGHOt9Q5JuXdf
 
 ## An Arizona State University Herberger, Institute for the Design and the Arts, Digital Culture Masters Final Project, 2019.
 [pop_chaos] ./Images/population_image3.png
-[pop_chaos2] ./Images/population_image1.png]
+[pop_chaos2] ./Images/population_image1.png
 [lsystem] ./Images/l-system.png
 
