@@ -9,16 +9,27 @@ A Video Synth developed from the Critter and Guitari ETC Video Synth
 ![pop_chaos]
 
 # Additonal Patches were created, including:
-[S - A1_AFlower_Sauce](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes/tree/master/ETC/patches/S%20-%20A1_AFlower_Sauce)  An L-system implementation producing a Flower/Leaf. 
-[S - A1_APopulation_Chaos](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes/tree/master/ETC/patches/S%20-%20A1_APopulation_Chaos)
-[S - A1_Brownian_Sauce](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes/tree/master/ETC/patches/S%20-%20A1_Brownian_Sauce)
+* [S - A1_AFlower_Sauce](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes/tree/master/ETC/patches/S%20-%20A1_AFlower_Sauce)  An L-system implementation producing a Flower/Leaf. 
+* [S - A1_APopulation_Chaos](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes/tree/master/ETC/patches/S%20-%20A1_APopulation_Chaos)
+*[S - A1_Brownian_Sauce](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes/tree/master/ETC/patches/S%20-%20A1_Brownian_Sauce)
 
 Code attributions found in each file. Also, here are those sources:
 http://www.mediafire.com/file/5rteoppprwqcb72/flowersystem.py
 https://www.pygame.org/project/1755/3062
-* Chaos fractal like here:  https://www.pygame.org/project/1754
+Chaos fractal like here:  https://www.pygame.org/project/1754
 
 ![lsystem]
+
+## parallel_projects
+
+The Digital_Thing is built in the context of a Digital Culture, Arts Media and Engineering, Master of Arts program and some of the following project examples are with interactive art and media. 
+* [Digital_Culture_Server](https://github.com/sylatupa/Digital_Culture_Server)
+** A collection of Node-Red Flows and Python Scripts. This runs on a Raspberry Pi and is connected to WiFi.
+** The Digital_Thing takes sensor data and sends it over an MQTT Network. Node Red recieves this data and sends it the ETC Video Synthesizer and the Digital_Culture_Sound_Client, over OSC.  
+* [Digital_Culture_Sound_Client](https://github.com/sylatupa/Digital-Culture-Sound-Client)
+** A sound synthesizer written in Pure Data. This runs on a Raspberry Pi and is connected to Wifi and controlled by Node-Red and This_Thing.
+* [Video_Synth-ETC_Mother_and-Modes](https://github.com/sylatupa/Video_Synth-ETC_Mother_and-Modes)
+** written by Critter and Guitari for the ETC. This is installed on a Raspberry Pi that is connected to WiFi and controlled by Node-Red and This_Thing.
 
 ![pop_chaos2]
 
